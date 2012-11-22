@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://taufikobet.github.com/atom.xml" rel="self"/>
-  <link href="http://taufikobet.github.com/"/>
-  <updated>2012-11-23T01:52:51+07:00</updated>
-  <id>http://taufikobet.github.com/</id>
+  <title><![CDATA[Taufik Obet]]></title>
+  <link href="http://taufikobet.com//atom.xml" rel="self"/>
+  <link href="http://taufikobet.com//"/>
+  <updated>2012-11-23T02:09:15+07:00</updated>
+  <id>http://taufikobet.com//</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Muhammad Taufik]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
